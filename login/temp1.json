@@ -1,0 +1,157 @@
+{
+    "access_key": "0066725464abd96d2cee00863ad9067f",
+    "access_token": "ec6a73ed66f5704bf4d071a2174fb736238aaeb6",
+    "addContact": {
+        "name": "",
+        "status": false
+    },
+    "addImage": {
+        "name": "",
+        "status": false
+    },
+    "addPesan": "",
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "addStickers": {
+        "name": "",
+        "status": false
+    },
+    "admin": [
+        "udf060a89ebb2af83af77edddb767c329"
+    ],
+    "ani_guess": [
+        "c9a9f741633543d70449a7d9801cbbd28"
+    ],
+    "apiKey": "8e3cf182-807a-4186-9261-a6c8741a9237",
+    "autoAdd": false,
+    "autoJoin": true,
+    "autoJoinTicket": false,
+    "autoLeave": false,
+    "autoLike": false,
+    "autoRead": false,
+    "autoRead1": false,
+    "autoReply": false,
+    "autoRestart": false,
+    "botMute": [],
+    "botOff": [],
+    "changeCover": false,
+    "changeGroupPicture": [],
+    "changePicture": false,
+    "changeProfileCover": "",
+    "changeProfileVideo": {
+        "picture": "tmp/pict.bin",
+        "stage": 2,
+        "status": false,
+        "video": "/tmp/video.bin"
+    },
+    "changeVideo": false,
+    "chatbot": {
+        "": false
+    },
+    "checkContact": false,
+    "checkPost": false,
+    "checkSticker": false,
+    "commentPost": "Auto Like By red samurai",
+    "content": {
+        "sam": [
+            "u2cf74acf6ed04d122def4db8ffdd2e39",
+            "u2cf74acf6ed04d122def4db8ffdd2e39",
+            "u2cf74acf6ed04d122def4db8ffdd2e39"
+        ],
+        "status": true
+    },
+    "detectMention": false,
+    "fancy": {
+        "foto1": [],
+        "foto2": [],
+        "foto3": [],
+        "status": false
+    },
+    "getReader": {},
+    "keyCommand": "red ",
+    "leaveMessage": false,
+    "leavePesan": "Halo @!, kenapa leave dari grup {gname}??",
+    "mayhem": false,
+    "mentionPesan": "Asw lo @!, Ngapain tag\" gw 􀜅􀄃hmm􏿿",
+    "messageSticker": {
+        "addName": null,
+        "addStatus": false,
+        "listSticker": {
+            "addSticker": {
+                "STKID": "2384546",
+                "STKPKGID": "1057495",
+                "STKVER": "14",
+                "status": true
+            },
+            "leaveSticker": null,
+            "mentionSticker": {
+                "STKID": "11979804",
+                "STKPKGID": "1295985",
+                "STKVER": "1"
+            },
+            "readerSticker": null,
+            "replySticker": null,
+            "welcomeSticker": null
+        }
+    },
+    "mimic": {
+        "copy": false,
+        "status": true,
+        "target": {
+            "udb68a574c2dd49530fd9affdcead6856": true
+        }
+    },
+    "myProfile": {
+        "coverId": "c255809b017712520a13cb7f4ea4d829",
+        "coverStatus": "",
+        "displayName": "™❍✯͜͡red✯sαмυяαι͜͡❂➣",
+        "pictureStatus": "0hXtfiIASJB1tbEC0q5-p4DGdVCTYsPgETI3BAbXkTUG4iKBRab3JAaXcZX2JzKUYINXEbOnkTC2Mm",
+        "statusMessage": "           ™❍✯̴̓͝͠r̷̐͝͠e̸̗͌̿d̴̽̀͠✯̵̐͛͠s̸̉̍̐α̵̎̌͛м̶̉͒͊υ̴̽͗͝я̵̄̇̚α̷̿̽͋ι̴̅̅͝❂̷̺͓̎➣̶̒͒̀\n     ˜”*°•.˜”*°        😎          •°*”˜.•°*”˜\n                 ผู้̳̳̳ส̳ร้̳̳า̳ง̳ บ̳อ̳ท̳ซ̳า̳มู̳̳ไ̳ร̳\n           [̲̅T][̲̅M] [̲̅S][̲̅A][̲̅M][̲̅U][̲̅R][̲̅A][̲̅I]            \n                   ˢᴱᴸᶠᴮᴼᵀ ᵀᴴᴬᴵᴸᴬᴺᴰ\n              𝕊𝔼𝕃𝔽𝔹𝕆𝕋 𝕋ℍ𝔸𝕀𝕃𝔸ℕ𝔻\n✶  🎀  𝑅𝐸𝒟 𝒮𝒜𝑀𝒰𝑅𝒜𝐼 𝒮𝐸𝐿𝐹𝐵❁𝒯  🎀  ✶\n[̲̅B][̲̅O][̲̅T][̲̅L][̲̅I][̲̅N][̲̅E] [̲̅T][̲̅H][̲̅A][̲̅I][̲̅L][̲̅A][̲̅N][̲̅D]\n\nᗷᓍᖶᒪᓰᘉᘿ ᖶᕼᗩᓰᒪᗩᘉᕲ  🔵  ᏰᎧᏖᏝᎥᏁᏋ ᏖᏂᏗᎥᏝᏗᏁᎴ\n    ᏕᏗᎷᏬᏒᏗᎥ̲̅  ცơɬƖıŋɛ ɬɧąıƖąŋɖ  ᏕᏋᏝᎦᏰᎧᏖ \nᗷᓍᖶᒪᓰᘉᘿ ᖶᕼᗩᓰᒪᗩᘉᕲ  🔴  ᗷᓍᖶᒪᓰᘉᘿ ᖶᕼᗩᓰᒪᗩᘉᕲ\n\n[̲̅B][̲̅O][̲̅T][̲̅L][̲̅I][̲̅N][̲̅E] [̲̅T][̲̅H][̲̅A][̲̅I][̲̅L][̲̅A][̲̅N][̲̅D]\n¸,øº¤ø¤º°𝒮𝒜𝑀𝒰𝑅𝒜𝐼 𝒮𝐸𝐿𝐹𝐵❀𝒯°º¤øº¤ø,¸\n   🙏https://line.me/ti/p/~Samurai-_-🙏\n           https://discord.gg/Rf6ma2",
+        "videoProfile": null
+    },
+    "notag": false,
+    "protectGroupImage": false,
+    "protectGroupName": false,
+    "protectGroupQr": false,
+    "publicMode": false,
+    "qrprotect": false,
+    "readerPesan": "Gw @!, Kang Sider",
+    "replyPesan": "What's wrong\nI'm busy right now",
+    "resendChat": false,
+    "responGc": false,
+    "restartBot": null,
+    "restartPoint": null,
+    "server": "VPS",
+    "setKey": false,
+    "timeRestart": 43200,
+    "ttt": "line://app/1602687308-GXq4Vvk9?type=text&text=",
+    "unsendMessage": false,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "userMentioned": {},
+    "waktu": 10,
+    "welcomeMessage": false,
+    "welcomePesan": "Selamat datang di grup {gname} @! Semoga betah yah 􀜅􀆚Hare Krishna􏿿"
+}
